@@ -35,10 +35,7 @@
         <sonar.projectKey>hugoj78_jhdemo</sonar.projectKey>
         <sonar.organization>hugoj78</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    </properties>
-
-
-    <properties>
+    
         <!-- Build properties -->
         <maven.version>3.3.9</maven.version>
         <java.version>1.8</java.version>
