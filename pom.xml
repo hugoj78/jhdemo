@@ -27,9 +27,16 @@
             <id>central</id>
             <url>https://eguhj.jfrog.io/artifactory/libs-central</url>
         </repository> -->
-        
+
     </distributionManagement>
     <!-- jhipster-needle-distribution-management -->
+
+    <properties>
+        <sonar.projectKey>hugoj78_jhdemo</sonar.projectKey>
+        <sonar.organization>hugoj78</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+
 
     <properties>
         <!-- Build properties -->
