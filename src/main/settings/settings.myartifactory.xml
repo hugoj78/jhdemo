@@ -12,3 +12,4 @@
       <passphrase>${env.GPG_PASSPHRASE}</passphrase>
     </server>
   </servers>
+</settings>
