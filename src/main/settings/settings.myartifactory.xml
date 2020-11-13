@@ -1,0 +1,7 @@
+<servers>
+    <server>
+      <id>snapshot</id>
+      <username>${env.JFROG_ACTOR}</username>
+      <password>${env.JFROG_PWD}</password>
+    </server>
+  </servers>
