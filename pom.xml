@@ -28,14 +28,6 @@
             <url>https://eguhj.jfrog.io/artifactory/libs-release/</url>
         </repository>
 
-
-        <repository>
-            <id>github</id>
-            <name>GitHub</name>
-            <url>https://github.com/hugoj78/jhdemo</url>
-        </repository>
-
-
     </distributionManagement>
     <!-- jhipster-needle-distribution-management -->
 
